@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "botcoin": {
+      "type": "streamable-http",
+      "url": "https://YOUR-BOTCOIN-HOST/mcp/YOUR_MCP_TOKEN"
+    }
+  }
+}

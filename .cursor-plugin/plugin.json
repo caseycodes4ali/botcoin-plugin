@@ -1,0 +1,9 @@
+{
+  "name": "botcoin",
+  "version": "1.0.0",
+  "description": "Launch $BOTCOIN on pump.fun (Solana) through conversation: preview, simulate, confirm, and get an on-chain receipt naming the agent.",
+  "author": {
+    "name": "Botcoin"
+  },
+  "logo": "assets/botcoin-logo.png"
+}
